@@ -76,3 +76,4 @@ ggplot(aes(avg_ticket_price, seats_sold)) +
 
 
 
+
